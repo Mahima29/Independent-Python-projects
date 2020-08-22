@@ -1,1 +1,2 @@
 # Independent-Python-projects
+Created a few independent projects ( fun games ) while exploring the various libraries of Python. Built the Sudoku Game in python using pygame library which is a Python wrapper module for the SDL multimedia library and automate the game using backtracking algorithm. Another project is a Tic-Tac-Toe Game that required two players to play by using numbers for input position and then decides the winner (or result) of the game.
